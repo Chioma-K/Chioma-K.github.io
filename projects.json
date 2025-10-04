@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "title": "Pharmacy Cost Prediction (ML)",
+      "year": "2025",
+      "tags": [
+        "ml",
+        "analytics"
+      ],
+      "summary": "Gradient boosting model predicting PMPM and highlighting cost drivers; includes SHAP-based explainability.",
+      "link": "https://github.com/your-username/pharmacy-cost-ml"
+    },
+    {
+      "title": "Snowflake ROI Pipeline (ETL)",
+      "year": "2025",
+      "tags": [
+        "engineering",
+        "analytics"
+      ],
+      "summary": "Automated ingestion + volatile table workflow to compute ROI; reduced processing from weeks to minutes.",
+      "link": "https://github.com/your-username/snowflake-roi-pipeline"
+    },
+    {
+      "title": "Power BI: Trend Management Dashboard",
+      "year": "2024",
+      "tags": [
+        "analytics"
+      ],
+      "summary": "Interactive dashboard for plan change and disenrollment metrics; cohort drilldowns and alerts.",
+      "link": "https://github.com/your-username/trend-management-dashboard"
+    },
+    {
+      "title": "LLM Claims Assistant",
+      "year": "2025",
+      "tags": [
+        "ml",
+        "engineering"
+      ],
+      "summary": "Prototype assistant to summarize claims and surface anomalies using retrieval and structured outputs.",
+      "link": "https://github.com/your-username/llm-claims-assistant"
+    }
+  ]
+}
