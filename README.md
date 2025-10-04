@@ -5,4 +5,4 @@
 
 ---
 
-Built for Chioma K — Healthcare Analytics • AI/ML.
+Built for Chioma K — Data Analytics • Full Stack AI/ML Engineer.
